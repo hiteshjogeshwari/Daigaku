@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 2px;
+  box-sizing: border-box;
+}
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  list-style: none;
+}
